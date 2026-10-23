@@ -4,5 +4,6 @@
   "templateUrl": "https://github.com/businesscentralapps/tmpJ2Yy4l-PTE@main",
   "useCompilerFolder": true,
   "type": "PTE",
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "eec6992baa56425dad79f7f0efac51948a103fdc"
 }
